@@ -1,0 +1,11 @@
+Petunjuk Instal Aplikasi Simpan Pinjam Koperasi:
+1. Buka XAMPP dan aktifkan Apache serta MySQL.
+2. Buka phpmyadmin dan buat database dengan nama koperasi.
+3. Import database koperasi.sql di database yang telah dibuat.
+4. Simpan aplikasi simpan pinjam koperasi di xampp\htdocs\.
+5. Buka browser dan tulis localhost/koperasi.
+
+Akun Aplikasi
+Superadmin : 
+username:F13nd || pass:123
+
